@@ -9,11 +9,22 @@
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* MyAwesomeSpotifyAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MyAwesomeSpotifyAppTests.m */; };
 		0C80B921A6F3F58F76C31292 /* libPods-MyAwesomeSpotifyApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-MyAwesomeSpotifyApp.a */; };
+		12DAC00EE2DF480D8CFE4BCF /* CircularStd-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6DFB01E1A6CC4F3886D77B37 /* CircularStd-Book.otf */; };
+		1315A11A7D7E446E8210812E /* CircularStd-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 42EC1C2DE3844FB999C4A175 /* CircularStd-Medium.otf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1AD6DCB061D94F268643353F /* CircularStd-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2E7681233B7C4DF88C8FBADC /* CircularStd-BoldItalic.otf */; };
+		6137CEFD4747406C9C35BEE4 /* CircularStd-Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 60DDEB7C476A49408CB99631 /* CircularStd-Light Italic.otf */; };
 		7699B88040F8A987B510C191 /* libPods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.a */; };
+		7F285B7BCC0B4E9C93E64564 /* CircularStd-BookItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1500CF02A025498E9A90CAD3 /* CircularStd-BookItalic.otf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		857A0C5F4E7449BAB391F242 /* CircularStd-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FECF6E16E5A849D1AE47B6AE /* CircularStd-Black.otf */; };
+		89AFF391CA764D28A6BFE33A /* CircularStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E97E8601BCFC46E3B4C7B6FB /* CircularStd-Bold.otf */; };
+		A5B191982AEC671D00167862 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = A5B191972AEC671D00167862 /* fonts */; };
+		B86893885FEE42E79E60C069 /* CircularStd-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 36392B0A366B43A58F82F9B8 /* CircularStd-BlackItalic.otf */; };
+		BB1CA0012E9C483DBDCC0ED6 /* CircularStd-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4BB529A2C5E243A99FA45D11 /* CircularStd-Light.otf */; };
+		C1C9E0571CA145A1AFEDF8A1 /* CircularStd-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9F6B2C02EEEA4498BEC52534 /* CircularStd-MediumItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +47,25 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MyAwesomeSpotifyApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MyAwesomeSpotifyApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MyAwesomeSpotifyApp/main.m; sourceTree = "<group>"; };
+		1500CF02A025498E9A90CAD3 /* CircularStd-BookItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-BookItalic.otf"; path = "../assets/fonts/CircularStd-BookItalic.otf"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E7681233B7C4DF88C8FBADC /* CircularStd-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-BoldItalic.otf"; path = "../assets/fonts/CircularStd-BoldItalic.otf"; sourceTree = "<group>"; };
+		36392B0A366B43A58F82F9B8 /* CircularStd-BlackItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-BlackItalic.otf"; path = "../assets/fonts/CircularStd-BlackItalic.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-MyAwesomeSpotifyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAwesomeSpotifyApp.debug.xcconfig"; path = "Target Support Files/Pods-MyAwesomeSpotifyApp/Pods-MyAwesomeSpotifyApp.debug.xcconfig"; sourceTree = "<group>"; };
+		42EC1C2DE3844FB999C4A175 /* CircularStd-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Medium.otf"; path = "../assets/fonts/CircularStd-Medium.otf"; sourceTree = "<group>"; };
+		4BB529A2C5E243A99FA45D11 /* CircularStd-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Light.otf"; path = "../assets/fonts/CircularStd-Light.otf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-MyAwesomeSpotifyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAwesomeSpotifyApp.release.xcconfig"; path = "Target Support Files/Pods-MyAwesomeSpotifyApp/Pods-MyAwesomeSpotifyApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.debug.xcconfig"; path = "Target Support Files/Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests/Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-MyAwesomeSpotifyApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyAwesomeSpotifyApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		60DDEB7C476A49408CB99631 /* CircularStd-Light Italic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Light Italic.otf"; path = "../assets/fonts/CircularStd-Light Italic.otf"; sourceTree = "<group>"; };
+		6DFB01E1A6CC4F3886D77B37 /* CircularStd-Book.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Book.otf"; path = "../assets/fonts/CircularStd-Book.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MyAwesomeSpotifyApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.release.xcconfig"; path = "Target Support Files/Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests/Pods-MyAwesomeSpotifyApp-MyAwesomeSpotifyAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		9F6B2C02EEEA4498BEC52534 /* CircularStd-MediumItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-MediumItalic.otf"; path = "../assets/fonts/CircularStd-MediumItalic.otf"; sourceTree = "<group>"; };
+		A5B191972AEC671D00167862 /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fonts; sourceTree = "<group>"; };
+		E97E8601BCFC46E3B4C7B6FB /* CircularStd-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Bold.otf"; path = "../assets/fonts/CircularStd-Bold.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FECF6E16E5A849D1AE47B6AE /* CircularStd-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Black.otf"; path = "../assets/fonts/CircularStd-Black.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,12 +138,14 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				A5B191972AEC671D00167862 /* fonts */,
 				13B07FAE1A68108700A75B9A /* MyAwesomeSpotifyApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* MyAwesomeSpotifyAppTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				9C9FBDB65B9340E990C4B701 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -135,6 +159,23 @@
 				00E356EE1AD99517003FC87E /* MyAwesomeSpotifyAppTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		9C9FBDB65B9340E990C4B701 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FECF6E16E5A849D1AE47B6AE /* CircularStd-Black.otf */,
+				36392B0A366B43A58F82F9B8 /* CircularStd-BlackItalic.otf */,
+				E97E8601BCFC46E3B4C7B6FB /* CircularStd-Bold.otf */,
+				2E7681233B7C4DF88C8FBADC /* CircularStd-BoldItalic.otf */,
+				6DFB01E1A6CC4F3886D77B37 /* CircularStd-Book.otf */,
+				1500CF02A025498E9A90CAD3 /* CircularStd-BookItalic.otf */,
+				60DDEB7C476A49408CB99631 /* CircularStd-Light Italic.otf */,
+				4BB529A2C5E243A99FA45D11 /* CircularStd-Light.otf */,
+				42EC1C2DE3844FB999C4A175 /* CircularStd-Medium.otf */,
+				9F6B2C02EEEA4498BEC52534 /* CircularStd-MediumItalic.otf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -243,7 +284,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				A5B191982AEC671D00167862 /* fonts in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				857A0C5F4E7449BAB391F242 /* CircularStd-Black.otf in Resources */,
+				B86893885FEE42E79E60C069 /* CircularStd-BlackItalic.otf in Resources */,
+				89AFF391CA764D28A6BFE33A /* CircularStd-Bold.otf in Resources */,
+				1AD6DCB061D94F268643353F /* CircularStd-BoldItalic.otf in Resources */,
+				12DAC00EE2DF480D8CFE4BCF /* CircularStd-Book.otf in Resources */,
+				7F285B7BCC0B4E9C93E64564 /* CircularStd-BookItalic.otf in Resources */,
+				6137CEFD4747406C9C35BEE4 /* CircularStd-Light Italic.otf in Resources */,
+				BB1CA0012E9C483DBDCC0ED6 /* CircularStd-Light.otf in Resources */,
+				1315A11A7D7E446E8210812E /* CircularStd-Medium.otf in Resources */,
+				C1C9E0571CA145A1AFEDF8A1 /* CircularStd-MediumItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -600,10 +652,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 			};
@@ -673,10 +722,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
